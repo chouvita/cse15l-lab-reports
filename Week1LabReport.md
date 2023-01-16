@@ -19,5 +19,11 @@
 3. Enter the password you reset after logging in to your CSE15L account (you won't be able to see what you are typing due to security issue) 
 4. You should see something like this
 
-    ![Image](
+    ![Image](login.png)
 ## Trying Some Commands 
+1. After remotely connected, try some commands in the terminal on your computer. 
+2. Here are some examples: `cd` `ls -lat` `ls -a` `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
+3. Here are some results that you might see:
+    * For `ls -a`
+    
+        
