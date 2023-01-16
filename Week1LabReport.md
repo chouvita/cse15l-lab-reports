@@ -1,9 +1,10 @@
 # Week 1 Lab Report 
 ## Course-Specific Account Login
-1. Check your account for CSE15L by logging in your UCSD email here: 
+1. Check your account for CSE15L by logging in your UCSD account username and ID here: 
 [Link](https://sdacs.ucsd.edu/~icc/index.php)
-2. Your account should be a 
-3. 
+2. Your account should be something starts with `cs15lwi23`
+3. Clink on your account name and click change your password
+4. Follow the Glocal Password Change Request (you can use your original password) 
 ## Installing VScode
 1. Download and install the VScode through this link: 
 [Link](https://code.visualstudio.com/)
@@ -16,4 +17,7 @@
 
     `ssh cs15lwi23xx@ieng6.ucsd.edu`
 3. Enter the password you reset after logging in to your CSE15L account (you won't be able to see what you are typing due to security issue) 
+4. You should see something like this
+
+    ![Image](
 ## Trying Some Commands 
