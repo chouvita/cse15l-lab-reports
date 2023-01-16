@@ -4,7 +4,7 @@
 [Link](https://sdacs.ucsd.edu/~icc/index.php)
 * Your account should be something starts with `cs15lwi23`
 * Clink on your account name and click change your password
-4. Follow the Glocal Password Change Request (you can use your original password) 
+* Follow the Glocal Password Change Request (you can use your original password) 
 
 ## Installing VScode
 * Download and install the VScode through this link: 
