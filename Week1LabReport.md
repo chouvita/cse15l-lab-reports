@@ -8,7 +8,7 @@
 1. Download and install the VScode through this link: 
 [Link](https://code.visualstudio.com/)
 2. Open VScode, you should see something like this
-    ![Image](
+    ![Image](vscode.png)
 ## Remotely Connecting
 1. After downloading VScode, open the terminal: Terminal --> New Terminal
 2. Type the following command in the termianl, replace `xx` with the letters in your CSE15L account
