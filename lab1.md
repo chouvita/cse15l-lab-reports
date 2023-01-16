@@ -28,6 +28,7 @@
 * Here are some examples: `cd` `ls -lat` `ls -a` `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
 * Here are some results that you might see:
     * For `ls -a`
+    
       ![Image](lis.png)
     
         
